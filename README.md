@@ -13,7 +13,7 @@ Arduino devices and programs are designed for every person interested in creatin
 
 Arduino is used in almost any electronics project, Arduino is linked to sensors to communicate with the material world and then convert these sensors to data that it analyzes and based on the codes that are programmed and then take decisions such as running engines, running or sound source
 
-https://user-images.githubusercontent.com/102740867/188249043-57e58b43-3b26-4ace-98b5-de3189f75fda.mp4
+
 
 
 
@@ -56,3 +56,15 @@ When you click on a "code", you will find the "Serial Monitor" option, then ente
 
 2 -I will now show you a challenge, which is to make Micro Servo move from 0 to 180 slowly and then return faster
 
+https://user-images.githubusercontent.com/102740867/188249043-57e58b43-3b26-4ace-98b5-de3189f75fda.mp4
+
+
+
+3- project to measure the lighting of the place
+
+In this project, we need photoresistor It is an electric resistance sensitive to light The value of its resistance changes as a result of exposure to light when it is exposed to bright light its value decreases to a small value, while in the dark its value rises to a large value
+
+
+https://user-images.githubusercontent.com/102740867/188251364-9bdf5833-b6f0-4f30-9285-eaec92a685cb.mp4
+
+First, we read the intensity of the lighting in the place and convert it from volt to digital signals so that we can use the lighting sensor and give it a condition if the intensity of the lighting is less or equal to 350, so make the LED work so that if the values ​​say like what is shown in the video when it reached about 6, the bulb worked and when the value rose To almost 600 it did not work
