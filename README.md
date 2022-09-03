@@ -67,4 +67,4 @@ In this project, we need photoresistor It is an electric resistance sensitive to
 
 https://user-images.githubusercontent.com/102740867/188251364-9bdf5833-b6f0-4f30-9285-eaec92a685cb.mp4
 
-First, we read the intensity of the lighting in the place and convert it from volt to digital signals so that we can use the lighting sensor and give it a condition if the intensity of the lighting is less or equal to 350, so make the LED work so that if the values ​​say like what is shown in the video when it reached about 6, the bulb worked and when the value rose To almost 600 it did not work
+First, we read the intensity of the lighting in the place and convert it from volt to digital signals so that we can use the lighting sensor and give it a condition if the intensity of the lighting is less or equal to 350, so make the LED work  ,if the value like what is shown in the video when it reached about 6, the  LED works and when the value  To almost 600 it did not works
